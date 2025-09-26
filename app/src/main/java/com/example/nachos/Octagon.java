@@ -1,5 +1,6 @@
 package com.example.nachos;
 
-public class Octogon extends Shape {
+public class Octagon extends Shape {
     private int sideLength;
+
 }
