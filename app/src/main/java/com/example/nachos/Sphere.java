@@ -1,4 +1,4 @@
 package com.example.nachos;
 
-public class Sphere {
+public class Sphere extends Shape{
 }
