@@ -1,5 +1,6 @@
 # nachos
-lab 4
 
-# Name: Reon Nguyen
-# CCID: ngoctha1
+# Lab 4
+
+- Name: Reon Nguyen
+- CCID: ngoctha1
